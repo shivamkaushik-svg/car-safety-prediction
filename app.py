@@ -98,11 +98,11 @@ Select the vehicle's specifications below to run the assessment.
 
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
+**Created by:** Shivam Kaushik
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
+* **LinkedIn:** https://www.linkedin.com/in/shivam-kaushik-87000b3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **GitHub:** https://github.com/shivamkaushik-svg
+* **Instagram:** https://www.instagram.com/shivamkaushik_178?utm_source=qr&igsh=MTJwOWU0eDFscnRtcA==
 
 ---
 ### 🛠️ Tools & Technologies Used
